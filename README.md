@@ -55,6 +55,7 @@ terraform-az-fk-acr/
 ├── examples/
 │   ├── 01_basic_acr/
 │   ├── 02_aks_with_acr_attach/
+│   ├── 03_private_acr_with_aks_and_private_endpoint/
 │   └── README.md
 ├── main.tf
 ├── variables.tf
@@ -62,6 +63,14 @@ terraform-az-fk-acr/
 ├── versions.tf
 └── README.md
 ```
+
+---
+
+## 📚 Included Examples
+
+- `01_basic_acr` — minimal baseline Azure Container Registry deployment
+- `02_aks_with_acr_attach` — AKS integration with explicit `AcrPull` via `terraform-az-fk-rbac`
+- `03_private_acr_with_aks_and_private_endpoint` — private ACR with AKS, Private Endpoint, Private DNS, and explicit RBAC
 
 ---
 
