@@ -12,10 +12,10 @@ These examples are part of the **[FoggyKitchen.com training ecosystem](https://f
 | Example | Title | Key Topics |
 |:-------:|:------|:-----------|
 | 01 | **Basic Azure Container Registry** | ACR baseline, SKU selection, public endpoint |
+| 02 | **AKS With ACR Attach** | ACR integration with AKS, AcrPull assignment, module composition |
 
 Examples will be added progressively to cover scenarios such as:
 
-- AKS integration with ACR pull permissions
 - Private ACR with Private Endpoint and DNS
 
 Each example should stay focused on **one architectural goal** and remain runnable on its own.
