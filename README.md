@@ -53,6 +53,8 @@ Each of those concerns belongs in its **own dedicated module**.
 ```bash
 terraform-az-fk-acr/
 ├── examples/
+│   ├── 01_basic_acr/
+│   ├── 02_aks_with_acr_attach/
 │   └── README.md
 ├── main.tf
 ├── variables.tf
