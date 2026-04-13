@@ -72,6 +72,11 @@ tofu plan
 tofu apply
 ```
 
+This example uses published module sources from GitHub:
+- `github.com/mlinxfeld/terraform-az-fk-acr`
+- `github.com/mlinxfeld/terraform-az-fk-aks`
+- `github.com/mlinxfeld/terraform-az-fk-rbac`
+
 After apply, you can verify:
 
 ```bash

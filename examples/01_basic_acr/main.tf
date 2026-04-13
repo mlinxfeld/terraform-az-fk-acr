@@ -1,7 +1,7 @@
 // examples/01_basic_acr/main.tf
 
 module "acr" {
-  source = "../.."
+  source = "github.com/mlinxfeld/terraform-az-fk-acr"
 
   # ACR names must be globally unique, 5-50 chars, lowercase letters and numbers only.
   acr_name            = "${var.name_prefix}${random_string.suffix.result}"

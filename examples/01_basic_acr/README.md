@@ -67,6 +67,9 @@ tofu plan
 tofu apply
 ```
 
+This example uses the published module source from GitHub:
+`github.com/mlinxfeld/terraform-az-fk-acr`
+
 ---
 
 ## 🖼️ Azure Portal View
