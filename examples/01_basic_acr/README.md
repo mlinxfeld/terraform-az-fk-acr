@@ -18,6 +18,8 @@ This deployment creates only the minimum required resources:
 - One **Azure Resource Group**
 - One **Azure Container Registry**
 
+<img src="01_basic_acr_architecture.png" width="900"/>
+
 This example creates:
 
 - One Azure Container Registry
@@ -64,6 +66,14 @@ tofu init
 tofu plan
 tofu apply
 ```
+
+---
+
+## 🖼️ Azure Portal View
+
+<img src="01_basic_acr_portal.png" width="900"/>
+
+*Figure 1. Azure Container Registry deployed from the `01_basic_acr` example and visible in Azure Portal.*
 
 ---
 
