@@ -1,0 +1,4 @@
+resource_group_name = "fk-rg"
+location            = "westeurope"
+aks_name            = "fk-aks-private-acr"
+vnet_name           = "fk-aks-private-acr-vnet"
