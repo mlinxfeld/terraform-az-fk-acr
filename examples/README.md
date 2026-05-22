@@ -54,10 +54,10 @@ tofu apply
 ## 🧩 Related Resources
 
 - [FoggyKitchen Azure ACR Module (terraform-az-fk-acr)](../)
-- [FoggyKitchen Azure AKS Module (terraform-az-fk-aks)](https://github.com/mlinxfeld/terraform-az-fk-aks)
-- [FoggyKitchen Azure RBAC Module (terraform-az-fk-rbac)](https://github.com/mlinxfeld/terraform-az-fk-rbac)
-- [FoggyKitchen Azure Private Endpoint Module (terraform-az-fk-private-endpoint)](https://github.com/mlinxfeld/terraform-az-fk-private-endpoint)
-- [FoggyKitchen Azure Private DNS Module (terraform-az-fk-private-dns)](https://github.com/mlinxfeld/terraform-az-fk-private-dns)
+- [FoggyKitchen Azure AKS Module (terraform-az-fk-aks)](https://github.com/foggykitchen/terraform-az-fk-aks)
+- [FoggyKitchen Azure RBAC Module (terraform-az-fk-rbac)](https://github.com/foggykitchen/terraform-az-fk-rbac)
+- [FoggyKitchen Azure Private Endpoint Module (terraform-az-fk-private-endpoint)](https://github.com/foggykitchen/terraform-az-fk-private-endpoint)
+- [FoggyKitchen Azure Private DNS Module (terraform-az-fk-private-dns)](https://github.com/foggykitchen/terraform-az-fk-private-dns)
 
 ---
 

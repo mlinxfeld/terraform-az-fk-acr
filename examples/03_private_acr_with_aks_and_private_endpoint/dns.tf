@@ -1,7 +1,7 @@
 // examples/03_private_acr_with_aks_and_private_endpoint/dns.tf
 
 module "private_dns" {
-  source = "github.com/mlinxfeld/terraform-az-fk-private-dns"
+  source = "github.com/foggykitchen/terraform-az-fk-private-dns"
 
   resource_group_name    = azurerm_resource_group.foggykitchen_rg.name
   private_dns_zone_names = ["privatelink.azurecr.io"]

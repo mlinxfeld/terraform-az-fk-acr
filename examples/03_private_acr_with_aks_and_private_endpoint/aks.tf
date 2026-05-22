@@ -1,7 +1,7 @@
 // examples/03_private_acr_with_aks_and_private_endpoint/aks.tf
 
 module "aks" {
-  source = "github.com/mlinxfeld/terraform-az-fk-aks"
+  source = "github.com/foggykitchen/terraform-az-fk-aks"
 
   name                = var.aks_name
   location            = azurerm_resource_group.foggykitchen_rg.location
