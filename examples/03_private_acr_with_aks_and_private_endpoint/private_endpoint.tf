@@ -1,7 +1,7 @@
 // examples/03_private_acr_with_aks_and_private_endpoint/private_endpoint.tf
 
 module "private_endpoint_acr" {
-  source = "github.com/mlinxfeld/terraform-az-fk-private-endpoint"
+  source = "github.com/foggykitchen/terraform-az-fk-private-endpoint"
 
   name                = "fk-acr-pe"
   location            = azurerm_resource_group.foggykitchen_rg.location
