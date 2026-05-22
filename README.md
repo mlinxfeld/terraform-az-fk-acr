@@ -78,7 +78,7 @@ terraform-az-fk-acr/
 
 ```hcl
 module "acr" {
-  source = "git::https://github.com/foggykitchen/terraform-az-fk-acr.git?ref=v0.1.0"
+  source = "git::https://github.com/mlinxfeld/terraform-az-fk-acr.git?ref=v0.1.0"
 
   acr_name                    = "fkacrdev001"
   resource_group_name         = "rg-fk-dev-001"
@@ -128,11 +128,11 @@ That keeps the module easy to compose with other FoggyKitchen Azure modules.
 
 ## 🧩 Related Modules & Training
 
-- [terraform-az-fk-aks](https://github.com/foggykitchen/terraform-az-fk-aks)
-- [terraform-az-fk-rbac](https://github.com/foggykitchen/terraform-az-fk-rbac)
-- [terraform-az-fk-private-endpoint](https://github.com/foggykitchen/terraform-az-fk-private-endpoint)
-- [terraform-az-fk-private-dns](https://github.com/foggykitchen/terraform-az-fk-private-dns)
-- [terraform-az-fk-compute](https://github.com/foggykitchen/terraform-az-fk-compute)
+- [terraform-az-fk-aks](https://github.com/mlinxfeld/terraform-az-fk-aks)
+- [terraform-az-fk-rbac](https://github.com/mlinxfeld/terraform-az-fk-rbac)
+- [terraform-az-fk-private-endpoint](https://github.com/mlinxfeld/terraform-az-fk-private-endpoint)
+- [terraform-az-fk-private-dns](https://github.com/mlinxfeld/terraform-az-fk-private-dns)
+- [terraform-az-fk-compute](https://github.com/mlinxfeld/terraform-az-fk-compute)
 
 ---
 
