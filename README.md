@@ -143,4 +143,4 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
-© 2026 FoggyKitchen.com — *Cloud. Code. Clarity.*
+©(https://foggykitchen.com) — *Cloud. Code. Clarity.*
