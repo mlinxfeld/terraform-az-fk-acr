@@ -68,7 +68,7 @@ tofu apply
 ```
 
 This example uses the published module source from GitHub:
-`github.com/mlinxfeld/terraform-az-fk-acr`
+`github.com/foggykitchen/terraform-az-fk-acr`
 
 ---
 

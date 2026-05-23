@@ -78,7 +78,7 @@ terraform-az-fk-acr/
 
 ```hcl
 module "acr" {
-  source = "git::https://github.com/mlinxfeld/terraform-az-fk-acr.git?ref=v0.1.0"
+  source = "git::https://github.com/foggykitchen/terraform-az-fk-acr.git?ref=v0.1.0"
 
   acr_name                    = "fkacrdev001"
   resource_group_name         = "rg-fk-dev-001"
