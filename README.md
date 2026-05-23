@@ -129,7 +129,7 @@ That keeps the module easy to compose with other FoggyKitchen Azure modules.
 ## 🧩 Related Modules & Training
 
 - [terraform-az-fk-aks](https://github.com/mlinxfeld/terraform-az-fk-aks)
-- [terraform-az-fk-rbac](https://github.com/mlinxfeld/terraform-az-fk-rbac)
+- [terraform-az-fk-rbac](https://github.com/foggykitchen/terraform-az-fk-rbac)
 - [terraform-az-fk-private-endpoint](https://github.com/foggykitchen/terraform-az-fk-private-endpoint)
 - [terraform-az-fk-private-dns](https://github.com/foggykitchen/terraform-az-fk-private-dns)
 - [terraform-az-fk-compute](https://github.com/mlinxfeld/terraform-az-fk-compute)

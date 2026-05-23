@@ -77,7 +77,7 @@ tofu apply
 This example uses published module sources from GitHub:
 - `github.com/mlinxfeld/terraform-az-fk-acr`
 - `github.com/mlinxfeld/terraform-az-fk-aks`
-- `github.com/mlinxfeld/terraform-az-fk-rbac`
+- `github.com/foggykitchen/terraform-az-fk-rbac`
 - `github.com/foggykitchen/terraform-az-fk-vnet`
 - `github.com/foggykitchen/terraform-az-fk-private-dns`
 - `github.com/foggykitchen/terraform-az-fk-private-endpoint`
